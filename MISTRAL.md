@@ -2,6 +2,7 @@
 layout: page
 title: The Infrastructure Transitions Research Consortium
 subtitle: Phase 2: MISTRAL: Multi-scale InfraSTRucture systems AnaLytics
+
 ---
 
 The [ITRC](https://www.itrc.org.uk/about-us/itrc-mistral-strategy/) is a consortium of seven leading UK universities, investigating ways to improve the performance of infrastructure systems in the UK and around the world. Our research is helping businesses and policymakers to explore the risk of infrastructure failure and the long term benefits of investments and policies to improve infrastructure systems.
