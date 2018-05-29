@@ -17,7 +17,7 @@ baseurl: ""
 title: Home
 
 # Short description of your site
-description: A personal web page for Nik Lomax.
+description: A personal web page for Nik Lomax
 
 # --- Navigation bar options --- #
 
@@ -25,6 +25,7 @@ description: A personal web page for Nik Lomax.
 navbar-links:
   About Me: "aboutme"
   Publications: "https://www.geog.leeds.ac.uk/people/person/publications/?shortname=n.lomax"
+  Presentations: "https://speakerdeck.com/niklomax/"
   Contact: "contact"
   Resources:
     - How to do microsimulation: "http://www.australianpopulationstudies.org/index.php/aps/article/view/14"
