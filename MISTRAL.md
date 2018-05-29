@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The Infrastructure Transitions Research Consortium
-subtitle: Phase 2: MISTRAL: Multi-scale InfraSTRucture systems AnaLytics
+subtitle: Phase 2 MISTRAL\: Multi-scale InfraSTRucture systems AnaLytics
 
 ---
 
