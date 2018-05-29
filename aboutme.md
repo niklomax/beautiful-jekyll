@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-bigimg: img/2017-10-29 07.09.01.jpg
+bigimg: /img/2017-10-29 07.09.01.jpg
 ---
 
 I am a University Academic Fellow in Data Analytics for Population Research at the University of Leeds. My research utilises existing and emerging data to produce high resolution estimates and projection of population and demographic characteristics. I am based in the [School of Geography](https://www.geog.leeds.ac.uk/people/n.lomax) and the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/people/nik/). 
