@@ -15,4 +15,4 @@ Using 8 machine learning algorithms, implemented in the r package carat, we used
 
 We conclude that e-petition data is an informative and versatile source of information that gauges the political sentiment in a location and argue that machine learning algorithms offer scope for political scientists to gain confirmatory or alternative insight in to a range of problems.
 
-Read the full paper [here](https://www.tandfonline.com/doi/full/10.1080/19331681.2018.1491926) and you can see the slidees from a presentation I gave in Cork [here](https://speakerdeck.com/niklomax/estimation-of-eu-referendum-results-for-westminster-parliamentary-constituencies).
+Read the full paper [here](https://www.tandfonline.com/doi/full/10.1080/19331681.2018.1491926) and you can see the slides from a presentation I gave in Cork [here](https://speakerdeck.com/niklomax/estimation-of-eu-referendum-results-for-westminster-parliamentary-constituencies).
