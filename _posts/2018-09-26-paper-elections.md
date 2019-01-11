@@ -2,8 +2,6 @@
 layout: post
 title: New Paper in the Journal of Information Technology and Politics
 subtitle: Estimating the outcome of UKs referendum on EU membership using e-petition data and machine learning algorithms
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [new paper, brexit, estimates]
 ---
 
