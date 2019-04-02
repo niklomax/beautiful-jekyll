@@ -1,0 +1,10 @@
+---
+layout: post
+title: Applied Geography Commission (AGC) meeting L'Aquila
+subtitle: Scenario planning for population growth and infrastructure demand
+tags: [presentation, conference]
+---
+
+Running evidence informed scenarios is one way to assess what the size, distribution and infrastructure needs of the population might be in the future. This paper introduces a framework of models which are being developed to work in harmony to provide insight in to potential future population growth and how this is enabled or constrained by land use and infrastructure developments. The first model, SPENSER, is a Synthetic Population Estimation and Scenario Projection Model which uses dynamic microsimulation to provide estimates of population at small area level. Second, Simim is a spatial interaction model which migrates populations under different scenarios. Third, QUANT, developed at University College London is a model which redistributes populations across travel networks, with the ability to amend these networks and employment redistribution. The paper takes in to account the interplay between migration and commuting, recognising that changing travel infrastructure, the location of housing and the location of jobs will produce different projection results. Using a UK example of changing housing provision, improvement to transport links and increase in employment opportunities, this paper demonstrates local level changes in population size and composition and discusses different infrastructure demands under a range of scenarios. It also discusses some of the difficulties of integrating different models, and ongoing developments in High Performance Computing for infrastructure planning, as both the SPENSER and Simim models are being piloted on the UK’s Data Analytics Facility for National Infrastructure (DAFNI) platform.
+
+The Applied Geography Commission (AGC) meeting will be held in L'Aquila, 17-19 June. For more information see https://www.age-geografia.es/site/?p=8547
