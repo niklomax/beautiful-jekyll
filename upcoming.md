@@ -7,7 +7,7 @@ Subtitle: Below is a list of talks I have agreed to.
 Click through using the links below for abstracts and further information. Once I have given the talk I will upload the slides. You can find slides from previous talks via the [Presentations](https://speakerdeck.com/niklomax/) tab.
 
 # Talks in 2019
-- Scenario planning for population growth and infrastructure demand, Applied Geography Commission (AGC) Conference: 2019 L’Aquila, Italy, 17 to 19 June. [Abstract](https://niklomax.github.io/2019-04-02-laquila/), [conference details](https://www.age-geografia.es/site/?p=8547).
+- Scenario planning for population growth and infrastructure demand, Applied Geography Commission (AGC) Conference, L’Aquila, Italy, 17 to 19 June. [Abstract](https://niklomax.github.io/2019-04-02-laquila/), [conference details](https://www.age-geografia.es/site/?p=8547).
 
 # Talks in 2018
 - Examining scenarios of ethnic composition in the United Kingdom. International Geographical Union regional Conference, Quebec, 5 to 10 August. [Abstract](https://niklomax.github.io/2018-05-29-Quebec/), [conference details](http://igu2018.ulaval.ca).
