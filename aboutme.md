@@ -3,7 +3,7 @@ layout: page
 title: About me
 ---
 
-I am a University Academic Fellow in Data Analytics for Population Research at the University of Leeds. My research utilises existing and emerging data to produce high resolution estimates and projection of population and demographic characteristics. I am based in the [School of Geography](https://www.geog.leeds.ac.uk/people/n.lomax) and the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/people/nik/). I am also a [Turing Fellow](https://www.turing.ac.uk/people/researchers/nik-lomax) so you will sometimes find me at the [Alan Turing Institute](https://www.turing.ac.uk/about-us) in the British Library. 
+I am an Associate Professor in Data Analytics for Population Research at the University of Leeds. My research utilises existing and emerging data to produce high resolution estimates and projection of population and demographic characteristics. I am based in the [School of Geography](https://www.geog.leeds.ac.uk/people/n.lomax) and the [Leeds Institute for Data Analytics](https://lida.leeds.ac.uk/people/nik/). I am also a [Turing Fellow](https://www.turing.ac.uk/people/researchers/nik-lomax) so you will sometimes find me at the [Alan Turing Institute](https://www.turing.ac.uk/about-us) in the British Library. 
 
 
 
