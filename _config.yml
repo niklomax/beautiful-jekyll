@@ -32,8 +32,8 @@ navbar-links:
   - New Ethpop: "ethpop"
   - Turing: "Turing"
   Publications and Presentations:
-  - Publication list on Google: "https://scholar.google.co.uk/citations?user=_hyC1xkAAAAJ&hl=en"
-  - Presentations at Speakerdeck: "https://speakerdeck.com/niklomax/"
+  - Publication list on Google: "https://scholar.google.co.uk/citations?hl=en&user=_hyC1xkAAAAJ&view_op=list_works&sortby=pubdate"
+  - Presentations at Speaker Deck: "https://speakerdeck.com/niklomax/"
   Resources:
     - How to do microsimulation: "http://www.australianpopulationstudies.org/index.php/aps/article/view/14"
     - How to do IPF: "https://doi.org/10.1080/00330124.2015.1099449"
