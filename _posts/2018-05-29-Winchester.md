@@ -2,8 +2,6 @@
 layout: post
 title: Upcoming talk in Winchester
 subtitle: Here is the abstract which has been accepted for the BSPS conference in Winchester. This is a piece of work I have done with my colleauge Stephen Clark.
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
 tags: [Presentation]
 ---
 
