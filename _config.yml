@@ -33,7 +33,6 @@ navbar-links:
   - Turing: "Turing"
   Publications: "https://environment.leeds.ac.uk/geography/staff/1064/dr-nik-lomax"
   Presentations: "https://speakerdeck.com/niklomax/"
-  Contact: "contact"
   Resources:
     - How to do microsimulation: "http://www.australianpopulationstudies.org/index.php/aps/article/view/14"
     - How to do IPF: "https://doi.org/10.1080/00330124.2015.1099449"
@@ -46,7 +45,7 @@ navbar-links:
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
-# title-img: "/img/Headshot 3.png"
+title-img: "/img/Headshot 3.png"
 
 # --- Background colour/image options --- #
 
@@ -82,7 +81,7 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "nik.lomax@gmail.com"
+  email: "n.m.lomax@leeds.ac.uk"
   github: niklomax
   twitter: niklomax
 #  reddit: yourname
