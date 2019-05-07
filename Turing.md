@@ -5,6 +5,7 @@ title: Turing Fellowship
 
 I am very pleased to have been awarded a fellowship by the [Alan Turing Institute](https://www.turing.ac.uk/), the UK's national institute for data science and artificial intelligence. [Here](https://www.turing.ac.uk/people/researchers/nik-lomax) is a link to my profile on the Turing web pages which provides a bit more information about the kinds of things I will be doing.
 
+# SPENSER
 One of my main Projects is developing **SPENSER**, a **S**ynthetic **P**opulation **E**stimation and **S**c**e**na**r**io Projection model which uses dynamic microsimulation. It provides the framework for estimates of population which are dynamic and high resolution (at household level); and a comprehensive set of tools for user customisable scenario projections. The interactive interface allows users to set assumptions for the future (e.g. around economic, policy, health changes) which are translated to underlying demographic constraints (mortality, fertility, migration). The model runs the projection in line with the chosen scenario parameters, providing a principal projection along with confidence intervals. Development of SPENSER is threefold: (1) design of a user-friendly interface for the model; (2) implementation of a dynamic microsimulation model which translates user input and underlying data in to a scenario projection; and (3) experimentation with innovative visualisation of results, to include interactive maps and plots. The Figure 1  provides an overview of how these three phases fit together.
 
 ![SPENSER](SPENSERscem.png)
