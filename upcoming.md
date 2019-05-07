@@ -4,7 +4,7 @@ title: Recent and upcoming talks
 Subtitle: Below is a list of talks I have agreed to.
 ---
 
-Click through using the links below for abstracts and further information. Once I have given the talk I will upload the slides. You can find slides from previous talks via the [Presentations](https://speakerdeck.com/niklomax/) tab.
+Click through using the links below for abstracts and further information. Once I have given the talk I will upload the slides to my [Speaker Deck](https://speakerdeck.com/niklomax/) site.
 
 # Talks in 2019
 - Scenario planning for population growth and infrastructure demand, Applied Geography Commission (AGC) Conference, L’Aquila, Italy, 17 to 19 June. [Abstract](https://niklomax.github.io/2019-04-02-laquila/), [conference details](https://www.age-geografia.es/site/?p=8547).
