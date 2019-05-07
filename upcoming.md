@@ -8,6 +8,7 @@ Click through using the links below for abstracts and further information. Once 
 
 # Talks in 2019
 - Scenario planning for population growth and infrastructure demand, Applied Geography Commission (AGC) Conference, L’Aquila, Italy, 17 to 19 June. [Abstract](https://niklomax.github.io/2019-04-02-laquila/), [conference details](https://www.age-geografia.es/site/?p=8547).
+- Using novel data to provide local insights, Royal Statistical Society, Leeds, 5 June. [Details and abstract](https://sites.google.com/site/rssleedsbradford/home/2018---2019/spatial-mapping).
 
 # Talks in 2018
 - Examining scenarios of ethnic composition in the United Kingdom. International Geographical Union regional Conference, Quebec, 5 to 10 August. [Abstract](https://niklomax.github.io/2018-05-29-Quebec/), [conference details](http://igu2018.ulaval.ca).
