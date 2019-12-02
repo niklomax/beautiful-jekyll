@@ -1,4 +1,9 @@
-<h1 class="legacy">What's happened to UK migration since the EU referendum – in four graphs</h1>
+---
+layout: post
+title: What's happened to UK migration since the EU referendum – in four graphs
+subtitle: An article published in The Conversation
+tags: [population projection, Brexit, scenarios]
+---
 
   <figure>
     <img src="https://images.theconversation.com/files/304348/original/file-20191128-178078-728fau.jpg?ixlib=rb-1.1.0&rect=76%2C89%2C2901%2C1805&q=45&auto=format&w=754&fit=clip" />
